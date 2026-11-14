@@ -1,3 +1,4 @@
+![Linguagem principal](https://img.shields.io/github/languages/top/yussiw/Minecraft-Renative?style=for-the-badge)
 ReNative
 
 Um projeto de Minecraft para Android, focado em expansão, personalização e modificações.
