@@ -19,4 +19,4 @@ Desenvolvimento
 
 Projeto em desenvolvimento. Novos recursos e melhorias são adicionados continuamente.
 
-Recomendo baixar texturas do Minecraft Java para ima experiência melhor, pois o jogo sozinho não possui texturas!
+Recomendo baixar texturas do Minecraft Java para uma experiência melhor, pois o jogo sozinho não possui texturas!
